@@ -18,7 +18,7 @@
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME  "xyfer17"
-#define AIO_KEY       "aio_RuqO24up8wzVbt7lbYZA7g7WloD0"
+#define AIO_KEY       "-------"
 /************ Global State (you don't need to change this!) ******************/
 
 // Create an ESP8266 WiFiClient class to connect to the MQTT server.
